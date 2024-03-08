@@ -16,7 +16,6 @@
 3. If you want to upload this project to your github repository, then follow this stepts
    1. Create a new repository
    2. Follow the commandline bellow
-   -  
      ```javascript
         git remote remove origin
      ```
