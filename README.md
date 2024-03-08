@@ -5,6 +5,8 @@
 1. React with `Vite`
 2. React Router
 3. Tailwind CSS
+4. axios + axios interceptor support
+5. Tanstack query/ React Query support
 
 #### Upload Project to your Github repository
 
