@@ -11,23 +11,23 @@
    7. React Icons setup [[Visit Link](https://react-icons.github.io/react-icons/)]
 
 #### New Component Features `components/ui`
-   - `<PageTitle title={}/>` -- component takes a props as a `page title`
+   - `<PageTitle title={}/>` — component takes a props as a `page title`
 
 #### New CSS Features `utils/css`
    - `h1, h2, h3, h4, h5` styles hasbeen added
    - `all-center` className added. Following this: `<div className="all-center"><div>All Item will be center</div></div>`
 
 #### Folder Structures
-   - `api` -> `secureApi.jsx` contains the axios interceptors configuration, just use your `server` URL
-   - `assets` -> Handle this folder for work with images/icons/others....
-   - `components` -> `ui` folder has some specific components, you can modify if you want
-   - `hooks` -> `demoHooks/useData.jsx` see the demos, for fetching the data from the server
-   - `layout` -> `MainLayout.jsx` follow this for any time of layout you want to make 
-   - `lib` -> `lib` if you want to make any library, then you can make here
-   - `pages` -> Inside the you can make any page
-   - `router` -> All of your routes will be here
-   - `shared` -> Login, Register, Header, Footer are available . You can customize
-   - `utils` -> `css/Fixed.css` some fixed are available, you can customize. Inside this you can keep any `js` file. 
+   - `api` — `secureApi.jsx` contains the axios interceptors configuration, just use your `server` URL
+   - `assets` — Handle this folder for work with images/icons/others....
+   - `components` — `ui` folder has some specific components, you can modify if you want
+   - `hooks` — `demoHooks/useData.jsx` see the demos, for fetching the data from the server
+   - `layout` — `MainLayout.jsx` follow this for any time of layout you want to make 
+   - `lib` — `lib` if you want to make any library, then you can make here
+   - `pages` — Inside the you can make any page
+   - `router` — All of your routes will be here
+   - `shared` — Login, Register, Header, Footer are available . You can customize
+   - `utils` — `css/Fixed.css` some fixed are available, you can customize. Inside this you can keep any `js` file. 
 
 #### How to use this Starter Template
 
