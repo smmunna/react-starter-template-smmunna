@@ -1,6 +1,6 @@
 ## Start with your React.js Starter Template
 
-**Jumpstart your project instantly with a pre-configured React.js setup.**
+**Jumpstart your project instantly with a pre-configured React.js setup.** <br>
 ***Reduce the total time to setup the project***
 
 #### Starter Template Features
