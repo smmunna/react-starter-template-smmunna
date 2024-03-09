@@ -7,8 +7,10 @@
 3. Tailwind CSS (Configuration) setup
 4. axios + axios interceptor setup
 5. Tanstack query/ React Query setup
+6. react-helmet-async setup
+7. React Icons setup [[Visit Link](https://react-icons.github.io/react-icons/)]
 
-#### Upload Project to your Github repository
+#### How to use this Starter Template
 
 1. Clone this repository from this github repository
 2. Goto that project and run `npm install`
