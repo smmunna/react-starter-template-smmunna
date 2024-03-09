@@ -18,16 +18,16 @@
    - `all-center` className added. Following this: `<div className="all-center"><div>All Item will be center</div></div>`
 
 #### Folder Structures
-- `api` -> `secureApi.jsx` contains the axios interceptors configuration, just use your `server` URL
-- `assets` -> Handle this folder for work with images/icons/others....
-- `components` -> `ui` folder has some specific components, you can modify if you want
-- `hooks` -> `demoHooks/useData.jsx` see the demos, for fetching the data from the server
-- `layout` -> `MainLayout.jsx` follow this for any time of layout you want to make 
-- `lib` -> `lib` if you want to make any library, then you can make here
-- `pages` -> Inside the you can make any page
-- `router` -> All of your routes will be here
-- `shared` -> Login, Register, Header, Footer are available . You can customize
-- `utils` -> `css/Fixed.css` some fixed are available, you can customize. Inside this you can keep any `js` file. 
+   - `api` -> `secureApi.jsx` contains the axios interceptors configuration, just use your `server` URL
+   - `assets` -> Handle this folder for work with images/icons/others....
+   - `components` -> `ui` folder has some specific components, you can modify if you want
+   - `hooks` -> `demoHooks/useData.jsx` see the demos, for fetching the data from the server
+   - `layout` -> `MainLayout.jsx` follow this for any time of layout you want to make 
+   - `lib` -> `lib` if you want to make any library, then you can make here
+   - `pages` -> Inside the you can make any page
+   - `router` -> All of your routes will be here
+   - `shared` -> Login, Register, Header, Footer are available . You can customize
+   - `utils` -> `css/Fixed.css` some fixed are available, you can customize. Inside this you can keep any `js` file. 
 
 #### How to use this Starter Template
 
@@ -56,16 +56,16 @@
   - ➜  press h + enter to show help
 
 #### Requirements
-1. Node.js version with v18+
-2. VS Code Editor with recommended Extension
-   1. JavaScript
-   2. ES7+React/Redux/React Native
-   3. Tailwind CSS
-3. Optionally React Developer Tools
+   1. Node.js version with v18+
+   2. VS Code Editor with recommended Extension
+      1. JavaScript
+      2. ES7+React/Redux/React Native
+      3. Tailwind CSS
+   3. Optionally React Developer Tools
 
 #### Scripts
-- `npm run dev` for starting this project
-- `npm run build` Compiles and bundles the app for deployment
+   - `npm run dev` for starting this project
+   - `npm run build` Compiles and bundles the app for deployment
 
 #### License
 Copyright © 2024-present Sm Munna.
