@@ -12,6 +12,7 @@
    5. Tanstack query/ React Query setup [[Visit Link](https://tanstack.com/query/latest)]
    6. react-helmet-async setup [[Visit Link](https://github.com/staylor/react-helmet-async#readme)]
    7. React Icons setup [[Visit Link](https://react-icons.github.io/react-icons/)]
+   8. rc-pagination added [[Visit Link](https://www.npmjs.com/package/rc-pagination)]
 
 #### New Component Features `components/ui`
    - `<PageTitle title={}/>` — component takes a props as a `page title`

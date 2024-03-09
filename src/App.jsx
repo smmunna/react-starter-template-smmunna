@@ -19,6 +19,9 @@ function App() {
           <div className="text-center">
             Developed by <a href="https://www.linkedin.com/in/minhazulabedinmunna/" target="_blank" className="underline text-blue-600">Minhazul Abedin Munna</a> {year}&copy;
           </div>
+          <div className="text-center">
+            Visit Website: <a href="https://www.techzaint.com/in/minhazulabedinmunna/" target="_blank" className="underline text-blue-600">Tech Zaint</a>;
+          </div>
         </div>
       </div>
     </>
