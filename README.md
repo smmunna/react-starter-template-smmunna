@@ -1,5 +1,8 @@
 ## Start with your React.js Starter Template
 
+**Jumpstart your project instantly with a pre-configured React.js setup.**
+***Reduce the total time to setup the project***
+
 #### Starter Template Features
 🔰Installed these (Packages): 
    1. React with `Vite` [[Visit Link](https://vitejs.dev/guide/)]
