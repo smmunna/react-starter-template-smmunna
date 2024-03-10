@@ -2,12 +2,11 @@ import PageTitle from "./components/ui/PageTitle"
 import { FaReact } from "react-icons/fa6";
 import { myLibrary } from "./lib/myLibarary";
 
-
 function App() {
   const date = new Date();
   const year = date.getFullYear();
-  const value = myLibrary.getValue(2,3)
-  console.log(value)
+  const value = myLibrary.getValue(2, 3)
+  // console.log(value)
 
   return (
     <>
