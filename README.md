@@ -13,9 +13,12 @@
    6. react-helmet-async setup [[Visit Link](https://github.com/staylor/react-helmet-async#readme)]
    7. React Icons setup [[Visit Link](https://react-icons.github.io/react-icons/)]
    8. rc-pagination added [[Visit Link](https://www.npmjs.com/package/rc-pagination)]
+   9. react-lazy-load-image-component [[Visit Link](https://www.npmjs.com/package/react-lazy-load-image-component)]
+
 
 #### New Component Features `components/ui`
    - `<PageTitle title={}/>` — component takes a props as a `page title`
+   - `<Image src={} alt={} effect={} height={} width={} transitionDelay={''}/>` — component takes these props, default effect: `blur`, `'black-and-white`, `opacity`, and transitionDelay: set any seconds like `1s,2s,3s....`
 
 #### New CSS Features `utils/css`
    - `h1, h2, h3, h4, h5` styles hasbeen added

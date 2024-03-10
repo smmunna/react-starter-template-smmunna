@@ -4,6 +4,7 @@ import { FaReact } from "react-icons/fa6";
 function App() {
   const date = new Date();
   const year = date.getFullYear();
+
   return (
     <>
       <PageTitle title={`React.js | Starter Template`} />
