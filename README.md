@@ -19,6 +19,8 @@
 #### New Component Features `components/ui`
    - `<PageTitle title={}/>` — component takes a props as a `page title`
    - `<Image src={} alt={} effect={} height={} width={} transitionDelay={''}/>` — component takes these props, default effect: `blur`, `'black-and-white`, `opacity`, and transitionDelay: set any seconds like `1s,2s,3s....`
+   - `<Spinner/>` — component used for any Loading state.
+   - `<ErrorPage/>` — component used for if any `error` found in any routes.
 
 #### New CSS Features `utils/css`
    - `h1, h2, h3, h4, h5` styles hasbeen added
