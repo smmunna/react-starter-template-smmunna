@@ -14,6 +14,7 @@
    7. React Icons setup [[Visit Link](https://react-icons.github.io/react-icons/)]
    8. rc-pagination added [[Visit Link](https://www.npmjs.com/package/rc-pagination)]
    9. react-lazy-load-image-component [[Visit Link](https://www.npmjs.com/package/react-lazy-load-image-component)]
+   10. react redux toolkit  [[Visit Link](https://react-redux.js.org/tutorials/quick-start)]
 
 
 #### New Component Features `components/ui`
@@ -34,6 +35,7 @@
    - `layout` — `MainLayout.jsx` follow this for any time of layout you want to make 
    - `lib` — `lib` if you want to make any library, then you can make here
    - `pages` — Inside the you can make any page
+   - `redux` — State management tool hasbeen added
    - `router` — All of your routes will be here
    - `shared` — Login, Register, Header, Footer are available . You can customize
    - `utils` — `css/Fixed.css` some fixed are available, you can customize. Inside this you can keep any `js` file. 
