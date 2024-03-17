@@ -3,6 +3,7 @@ import { FaReact } from "react-icons/fa6";
 import { myLibrary } from "./lib/myLibarary";
 import { useDispatch, useSelector } from "react-redux";
 import { decrement, increment } from "./redux/features/counter/counterSlice";
+import moment from "moment";
 
 function App() {
   const count = useSelector((state) => state.counter.value)
@@ -19,6 +20,7 @@ function App() {
       <div className="all-center items-center min-h-screen">
         <div>
           <h3 className="text-center py-4 px-3 font-bold">
+            <span className="bg-slate-800 p-2 text-slate-100 mb-2">{moment().format('MMMM Do YYYY, h:mm:ss a')} </span><br /> <br />
             Welcome to React.js Starter Template
             <div className="all-center pt-10">
               <span className="text-4xl font-bold">{count}</span>
@@ -32,7 +34,7 @@ function App() {
             Developed by <a href="https://www.linkedin.com/in/minhazulabedinmunna/" target="_blank" className="underline text-blue-600">Minhazul Abedin Munna</a> {year}&copy;
           </div>
           <div className="text-center">
-            Visit Website: <a href="https://www.techzaint.com/in/minhazulabedinmunna/" target="_blank" className="underline text-blue-600">Tech Zaint</a>;
+            Visit Website: <a href="https://www.techzaint.com/in/minhazulabedinmunna/" target="_blank" className="underline text-blue-600">Tech Zaint</a>
           </div>
           <div className="all-center gap-3 mt-3">
             <div>
