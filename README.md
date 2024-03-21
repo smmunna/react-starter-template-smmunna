@@ -16,6 +16,7 @@
    9. react-lazy-load-image-component [[Visit Link](https://www.npmjs.com/package/react-lazy-load-image-component)]
    10. react redux toolkit  [[Visit Link](https://react-redux.js.org/tutorials/quick-start)]
    11. react-getquery-params  [[Visit Link](https://www.npmjs.com/package/react-getquery-params?activeTab=readme)]
+   12. stripe-js [[Visit Link](https://www.npmjs.com/package/stripe)]
 
 
 #### New Component Features `components/ui`
