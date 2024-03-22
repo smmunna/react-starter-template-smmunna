@@ -18,7 +18,7 @@
     "rc-pagination": "^4.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-getquery-params": "^1.0.2",
+    "react-getquery-params": "^1.0.5",
     "react-helmet-async": "^2.0.4",
     "react-icons": "^5.0.1",
     "react-lazy-load-image-component": "^1.6.0",
