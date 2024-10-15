@@ -4,6 +4,7 @@ import { myLibrary } from "./lib/myLibarary";
 import { useDispatch, useSelector } from "react-redux";
 import { decrement, increment } from "./redux/features/counter/counterSlice";
 import moment from "moment";
+import Image from '../src/components/ui/Image';
 
 function App() {
   const count = useSelector((state) => state.counter.value)
@@ -27,6 +28,7 @@ function App() {
             </div>
             <div className="all-center pt-10">
               <FaReact className="text-blue-500" size={70} />
+              {/* <Image src={'https://images.pexels.com/photos/28050583/pexels-photo-28050583/free-photo-of-kapadokya.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'} height={100} width={100} effect={'blur'}/> */}
             </div>
           </h3>
           <hr />
